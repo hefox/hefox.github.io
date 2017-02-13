@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 name: Hunter Fox's Blog
-description: Techie
+footer-links:
+  github: hefox
+  twitter: hefoxed
+url: http://hefox.github.io
+permalink: /:title/
